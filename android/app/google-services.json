@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333422216748",
+    "project_id": "expo-test-4bf77",
+    "storage_bucket": "expo-test-4bf77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333422216748:android:fdb3f00c3d8e0c5a927389",
+        "android_client_info": {
+          "package_name": "com.javirady.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333422216748-3sqbtqtdo1uo5aa8tlji8c42mdql1oor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfKInP-WhKuwH4jGnS_CcSHHwEiN1R8RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333422216748-3sqbtqtdo1uo5aa8tlji8c42mdql1oor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

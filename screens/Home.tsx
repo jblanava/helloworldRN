@@ -21,6 +21,14 @@ export default function HomeScreen({ navigation }) {
         title="Go to Scrolling"
         onPress={() => navigation.navigate("Scrolling")}
       />
+      <Button
+        title="Go to Native Module usage"
+        onPress={() => navigation.navigate("NativeModule")}
+      />
+      <Button
+        title="Go to push Notification"
+        onPress={() => navigation.navigate("Notification")}
+      />
     </View>
   );
 }
